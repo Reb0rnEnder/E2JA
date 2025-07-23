@@ -1,0 +1,20 @@
+{
+    "timestamp": 1753310558,
+    "data": [
+        {
+            "name": "Vercel (fra1)",
+            "url": "https://example.vercel.app/",
+            "verified": true
+        },
+        {
+            "name": "Development (playit)",
+            "url": "http://mail-tin.gl.at.ply.gg:24282/",
+            "verified": true
+        },
+        {
+            "name": "Example (test)",
+            "url": "https://example.com/",
+            "verified": false
+        }
+    ]
+}
