@@ -8,6 +8,12 @@
             "verified": true
         },
         {
+            "name": "Vercel",
+            "subtext": "North America",
+            "url": "https://e2hostsfo1.vercel.app/",
+            "verified": true
+        },
+        {
             "name": "ReEnder E2",
             "subtext": "Unknown",
             "url": "http://mail-tin.gl.at.ply.gg:24282/",
