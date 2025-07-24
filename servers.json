@@ -2,17 +2,20 @@
     "timestamp": 1753310558,
     "data": [
         {
-            "name": "Vercel (fra1)",
+            "name": "Vercel",
+            "subtext": "Central Europe",
             "url": "https://example.vercel.app/",
             "verified": true
         },
         {
-            "name": "Development (playit)",
+            "name": "E2",
+            "subtext": "Development",
             "url": "http://mail-tin.gl.at.ply.gg:24282/",
             "verified": true
         },
         {
-            "name": "Example (test)",
+            "name": "Example",
+            "subtext": "example.com",
             "url": "https://example.com/",
             "verified": false
         }
