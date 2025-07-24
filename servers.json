@@ -4,7 +4,7 @@
         {
             "name": "Vercel",
             "subtext": "Central Europe",
-            "url": "https://example.vercel.app/",
+            "url": "https://example.vercel.appx/",
             "verified": true
         },
         {
@@ -12,12 +12,6 @@
             "subtext": "Development",
             "url": "http://mail-tin.gl.at.ply.gg:24282/",
             "verified": true
-        },
-        {
-            "name": "Example",
-            "subtext": "example.com",
-            "url": "https://example.com/",
-            "verified": false
         }
     ]
 }
