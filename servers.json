@@ -3,14 +3,20 @@
     "data": [
         {
             "name": "Vercel",
+            "subtext": "North America",
+            "url": "https://e2hostsfo1.vercel.app/",
+            "verified": true
+        },
+        {
+            "name": "Vercel",
             "subtext": "Central Europe",
             "url": "https://e2hostfra1.vercel.app/",
             "verified": true
         },
         {
             "name": "Vercel",
-            "subtext": "North America",
-            "url": "https://e2hostsfo1.vercel.app/",
+            "subtext": "West Europe",
+            "url": "https://e2hostcdg1.vercel.app/",
             "verified": true
         },
         {
